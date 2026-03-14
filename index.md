@@ -1,6 +1,6 @@
 # 📈 Cotações B3 - Ebook Kerns
 
-_Atualizado em: 14/03/2026, 19:42:42_
+_Atualizado em: 14/03/2026, 19:50:05_
 
 | PETR4 | 44.67 |
 | --- | --- |

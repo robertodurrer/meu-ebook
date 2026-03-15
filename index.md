@@ -1,8 +1,8 @@
 # Cotações B3 - Ebook
 
-_Atualizado em: 15/03/2026, 09:54:27_
+_Atualizado em: 15/03/2026, 09:55:56_
 
-| Ação | Valor (R$) | Open | Low | High |
+| Ação | Valor | Open | Low | High |
 | --- | --- | --- | --- | --- |
 | BBIG11 | 7.08 | 7.02 | 7.01 | 7.11 |
 | CXSE3 | 18.14 | 18.11 | 18.09 | 18.45 |

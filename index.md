@@ -1,6 +1,6 @@
 # Cotações B3 - Ebook
 
-_Atualizado em: 15/03/2026, 03:30:05_
+_Atualizado em: 15/03/2026, 03:40:08_
 
 | Ação | Valor |
 | --- | --- |

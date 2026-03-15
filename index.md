@@ -1,6 +1,6 @@
 # Cotações B3 - Ebook
 
-_Atualizado em: 15/03/2026, 09:32:21_
+_Atualizado em: 15/03/2026, 09:36:33_
 
 | Ação | Valor (R$) | Open | Low | High |
 | --- | --- | --- | --- | --- |
@@ -10,4 +10,3 @@ _Atualizado em: 15/03/2026, 09:32:21_
 | MFII11 | 73.95 | 73.85 | 73.51 | 74.29 |
 | TAEE11 | 42.2 | 42.15 | 42.01 | 43 |
 | XPLG11 | 102.03 | 101.96 | 101.85 | 102.09 |
-| Sun Mar 15 2026 09:31:41 GMT-0300 (Brasilia Standard Time) |  |  |  |  |

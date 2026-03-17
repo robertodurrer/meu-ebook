@@ -1,6 +1,6 @@
 # Cotações B3 - Ebook
 
-_Atualizado em: 17/03/2026, 08:50:06_
+_Atualizado em: 17/03/2026, 09:00:06_
 
 | Ação | Valor | Open | Low | High |
 | --- | --- | --- | --- | --- |
